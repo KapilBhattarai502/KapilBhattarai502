@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapil Bhattarai</h1>
 <h3 align="center">A passionate programmer from Nepal</h3>
 <img align=“right” width=“400” src=“https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png” />
-
+<img src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilbhattarai502&label=Profile%20views&color=0e75b6&style=flat" alt="kapilbhattarai502" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
