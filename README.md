@@ -3,7 +3,7 @@
 <img align="right" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilbhattarai502&label=Profile%20views&color=0e75b6&style=flat" alt="kapilbhattarai502" /> </p>
 
-- 🌱 I’m currently building**projects**
+- 🌱 I’m currently building **projects**
 
 - 💬 Ask me about **MERN**
 
